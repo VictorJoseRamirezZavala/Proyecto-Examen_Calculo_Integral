@@ -86,4 +86,5 @@ public class TaylorController {
     public VBox getVista() {
         return vista;
     }
+    
 }
